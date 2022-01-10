@@ -20,4 +20,4 @@ os
 
 
 Run the CLI application :
-
+Python3 restaurant.py
