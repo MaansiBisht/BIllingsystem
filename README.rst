@@ -1,7 +1,7 @@
 #################
 Billing System
 #################
-The project main aim is to perform the process of ordering and a billing of a restaurant.Designed especially for a restaurant which wants to attend their customers in a very well manner.This systen has the capabilities to give the receipt, in which taxes are included to the customers.
+The project's main objective is to automate the ordering and billing processes for restaurants. Specially designed for restaurants that want to cater to their customers very well. It is capable of providing the customer with a receipt that includes taxes.
 
 
 ****************
@@ -13,10 +13,7 @@ Python 3.8 and above
 ***************
 Installation 
 ***************
-Install python libraries :
-sys
-pickle
-os
+Prerequisites : sys,pickle and os module should be installed.
 
 
 Run the CLI application :
